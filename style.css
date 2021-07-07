@@ -1,0 +1,18 @@
+.jumbotron{
+    background-color: rgb(148, 148, 148);
+    padding: 50px;
+    text-align: center;
+}
+
+.card{
+    float: left;
+    margin-left: 150px;
+}
+
+body{
+    background-color: rgb(130, 130, 130);
+}
+
+.card-header{
+    width: 1600px;
+}
